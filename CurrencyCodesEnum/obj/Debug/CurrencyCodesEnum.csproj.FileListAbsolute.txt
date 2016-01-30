@@ -1,0 +1,5 @@
+C:\Dev\CurrencyCodesEnum\CurrencyCodesEnum\bin\Debug\CurrencyCodesEnum.dll
+C:\Dev\CurrencyCodesEnum\CurrencyCodesEnum\bin\Debug\CurrencyCodesEnum.pdb
+C:\Dev\CurrencyCodesEnum\CurrencyCodesEnum\obj\Debug\CurrencyCodesEnum.csprojResolveAssemblyReference.cache
+C:\Dev\CurrencyCodesEnum\CurrencyCodesEnum\obj\Debug\CurrencyCodesEnum.dll
+C:\Dev\CurrencyCodesEnum\CurrencyCodesEnum\obj\Debug\CurrencyCodesEnum.pdb
